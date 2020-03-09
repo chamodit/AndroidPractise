@@ -1,2 +1,2 @@
-# AndroidPractise
-Android practise application
+# AndroidPractice
+Android practice application
